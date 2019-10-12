@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="
+    http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+
+    <bean id="accountDao" class="com.xxM.dao.impl.AccountDaoImpl"></bean>
+    <bean id="check" class="com.xxM.utils.Check"></bean>
+    <aop:config>
+        <aop:pointcut id="pointcut01" expression="execution(* com.xxM.dao.impl.AccountDaoImpl.save(..))"/>
+        <aop:pointcut id="pointcut02" expression="execution(* com.xxM.dao.impl.AccountDaoImpl.delete(..))"/>
+        <aop:pointcut id="pointcut03" expression="execution(* com.xxM.dao.impl.AccountDaoImpl.findAll(..))"/>
+        <aop:pointcut id="pointcut04" expression="execution(* com.xxM.dao.impl.AccountDaoImpl.findById(..))"/>
+        <aop:pointcut id="pointcut05" expression="execution(* com.xxM.dao.impl.AccountDaoImpl.update(..))"/>
+        <aop:aspect ref="check">
+            <aop:before method="checkRights" pointcut-ref="pointcut01"/>
+            <aop:after-returning method="showDeleteLog" pointcut-ref="pointcut02" returning="object"/>
+            <aop:around method="showTime" pointcut-ref="pointcut03"/>
+            <aop:after-throwing method="showException" pointcut-ref="pointcut04" throwing="throwable"/>
+            <aop:after method="showFinalMsg" pointcut-ref="pointcut05"/>
+        </aop:aspect>
+    </aop:config>
+</beans>

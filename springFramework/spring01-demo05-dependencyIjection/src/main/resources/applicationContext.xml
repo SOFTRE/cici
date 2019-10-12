@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="accountDao" class="com.xxM.dao.Impl.AccountDaoImpl">
+        <constructor-arg name="age" value="18"/>
+        <constructor-arg name="name" value="张三"/>
+    </bean>
+    <bean id="accountDao02" class="com.xxM.dao.Impl.AccountDaoImpl02">
+        <property name="name" value="李四"/>
+        <property name="age" value="18"/>
+    </bean>
+    <bean id="accountDao03" class="com.xxM.dao.Impl.AccountDaoImpl03">
+        <property name="hobby" >
+            <array>
+                <value>coding</value>
+                <value>篮球</value>
+                <value>rap</value>
+            </array>
+        </property>
+    </bean>
+    <bean id="accountDao04" class="com.xxM.dao.Impl.AccountDaoImpl04">
+        <property name="map" >
+            <map>
+                <entry key="a" value="a1"/>
+                <entry key="b" value="b1"/>
+                <entry key="c" value="c1"/>
+            </map>
+        </property>
+    </bean>
+    <bean id="account" class="com.xxM.pojo.Account">
+        <property name="age" value="18"/>
+        <property name="name" value="王五"/>
+    </bean>
+    <bean id="accountDao06" class="com.xxM.dao.Impl.AccountDaoImpl06" p:username="赵六" p:age="18">
+    </bean>
+    <bean id="accountDao07" class="com.xxM.dao.Impl.AccountDaoImpl07" >
+<!--        <property name="username" value="#{'张三'}"/>-->
+        <property name="username" value="#{account.name}"/>
+        <property name="age" value="#{18}"/>
+    </bean>
+</beans>

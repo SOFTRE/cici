@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--
+        注册accountDao
+        id|name:当前bean标签的唯一标识(建议写成实现类对应的接口名称,首字母小写，建议用id即可)
+        class:接口实现类的全限定名
+        scope:作用范围
+            singleton:无论调用多少次只实例化一次，实例化之后的JavaBean存放在工厂里(IOC容器)，默认就是singleton
+            prototype:调用一次就实例化一次，实例化之后的javaBean不会放到工厂里(IOC容器)，生命周期交给虚拟机管理
+            init-method:bean的实例化方法
+            -->
+    <bean id="accountDao" class="com.xxM.dao.Impl.AccountDaoImpl" scope="singleton" init-method="initMethod" destroy-method="destroyMethod"/>
+    <bean id="accountService" class="com.xxM.service.Impl.AccountServiceImpl"/>
+
+
+</beans>

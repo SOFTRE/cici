@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring01-demo01-interface/spring01-demo01-interface.iml" filepath="$PROJECT_DIR$/spring01-demo01-interface/spring01-demo01-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-demo02-custom-ioc/spring01-demo02-custom-ioc.iml" filepath="$PROJECT_DIR$/spring01-demo02-custom-ioc/spring01-demo02-custom-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-demo03-ioc/spring01-demo03-ioc.iml" filepath="$PROJECT_DIR$/spring01-demo03-ioc/spring01-demo03-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-demo04-initBean/spring01-demo04-initBean.iml" filepath="$PROJECT_DIR$/spring01-demo04-initBean/spring01-demo04-initBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring01-demo05-dependencyIjection/spring01-demo05-dependencyIjection.iml" filepath="$PROJECT_DIR$/spring01-demo05-dependencyIjection/spring01-demo05-dependencyIjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-demo01-homework/spring02-demo01-homework.iml" filepath="$PROJECT_DIR$/spring02-demo01-homework/spring02-demo01-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-demo02-annotation/spring02-demo02-annotation.iml" filepath="$PROJECT_DIR$/spring02-demo02-annotation/spring02-demo02-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-demo03-fixed/spring02-demo03-fixed.iml" filepath="$PROJECT_DIR$/spring02-demo03-fixed/spring02-demo03-fixed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-demo04-annotation-homework/spring02-demo04-annotation-homework.iml" filepath="$PROJECT_DIR$/spring02-demo04-annotation-homework/spring02-demo04-annotation-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring02-demo05-pure-annotation-homework/spring02-demo05-pure-annotation-homework.iml" filepath="$PROJECT_DIR$/spring02-demo05-pure-annotation-homework/spring02-demo05-pure-annotation-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03-demo01-custom-aop/spring03-demo01-custom-aop.iml" filepath="$PROJECT_DIR$/spring03-demo01-custom-aop/spring03-demo01-custom-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03-demo02-annotation-aop/spring03-demo02-annotation-aop.iml" filepath="$PROJECT_DIR$/spring03-demo02-annotation-aop/spring03-demo02-annotation-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring03-demo03-homework/spring03-demo03-homework.iml" filepath="$PROJECT_DIR$/spring03-demo03-homework/spring03-demo03-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-demo01-jdbctemplate/spring04-demo01-jdbctemplate.iml" filepath="$PROJECT_DIR$/spring04-demo01-jdbctemplate/spring04-demo01-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-demo02-ioc-jdbctemplate/spring04-demo02-ioc-jdbctemplate.iml" filepath="$PROJECT_DIR$/spring04-demo02-ioc-jdbctemplate/spring04-demo02-ioc-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-demo03-connectionpool/spring04-demo03-connectionpool.iml" filepath="$PROJECT_DIR$/spring04-demo03-connectionpool/spring04-demo03-connectionpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-demo04-xml-transaction/spring04-demo04-xml-transaction.iml" filepath="$PROJECT_DIR$/spring04-demo04-xml-transaction/spring04-demo04-xml-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring04-demo05-annotation-transaction/spring04-demo05-annotation-transaction.iml" filepath="$PROJECT_DIR$/spring04-demo05-annotation-transaction/spring04-demo05-annotation-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springFramework.iml" filepath="$PROJECT_DIR$/.idea/springFramework.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring01-demo01-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring01-demo02-custom-ioc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring01-demo03-ioc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring01-demo04-initBean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring01-demo05-dependencyIjection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring02-demo01-homework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring02-demo02-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring02-demo03-fixed" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring02-demo04-annotation-homework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring02-demo05-pure-annotation-homework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring03-demo01-custom-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring03-demo02-annotation-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring03-demo03-homework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo01-jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo02-ioc-jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo03-connectionpool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo04-xml-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo04-xml-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo05-annotation-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring04-demo05-xml-transaction" charset="UTF-8" />
+  </component>
+</project>

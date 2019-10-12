@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9daf4331-1adc-4db4-94c1-89dfb3eeab93" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spring04-demo02-ioc-jdbctemplate/src/test/java/com/xxM/test/ExtendsJdbcTemplateTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven\repository" />
+        <option name="mavenHome" value="D:/apache-maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RsPxj1tGJvuhu0nx9StP4vQNKH" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxM.domain" />
+      <recent name="com.xxM.dao" />
+      <recent name="com.xxM.dao.impl" />
+      <recent name="com.xxM.test" />
+      <recent name="com.xxM.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\springFramework" />
+      <recent name="D:\MyProjects\springFramework\spring04-demo04-xml-transaction\src\main\java\com\xxM\dao" />
+      <recent name="D:\MyProjects\springFramework\spring04-demo04-xml-transaction\src\test\java\com\xxM\test" />
+      <recent name="D:\MyProjects\springFramework\spring04-demo04-xml-transaction\src\main\java\com\xxM\dao\impl" />
+      <recent name="D:\MyProjects\springFramework\spring04-demo04-xml-transaction\src\main\java\com\xxM\impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AnnotationTransactionTest">
+    <configuration name="AnnotationTransactionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04-demo05-annotation-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxM.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxM.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xxM.test.AnnotationTransactionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsJdbcTemplateTest.findAll (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04-demo03-connectionpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxM.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxM.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xxM.test.ExtendsJdbcTemplateTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtendsJdbcTemplateTest.findAll (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04-demo05-xml-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxM.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxM.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xxM.test.ExtendsJdbcTemplateTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTemplateTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04-demo03-connectionpool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxM.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxM.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xxM.test.JdbcTemplateTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlTransactionTest.testTransaction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring04-demo04-xml-transaction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxM.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xxM.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xxM.test.XmlTransactionTest" />
+      <option name="METHOD_NAME" value="testTransaction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ExtendsJdbcTemplateTest.findAll (2)" />
+      <item itemvalue="JUnit.ExtendsJdbcTemplateTest.findAll (3)" />
+      <item itemvalue="JUnit.JdbcTemplateTest.findAll" />
+      <item itemvalue="JUnit.XmlTransactionTest.testTransaction" />
+      <item itemvalue="JUnit.AnnotationTransactionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnnotationTransactionTest" />
+        <item itemvalue="JUnit.XmlTransactionTest.testTransaction" />
+        <item itemvalue="JUnit.ExtendsJdbcTemplateTest.findAll (2)" />
+        <item itemvalue="JUnit.JdbcTemplateTest.findAll" />
+        <item itemvalue="JUnit.ExtendsJdbcTemplateTest.findAll (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9daf4331-1adc-4db4-94c1-89dfb3eeab93" name="Default Changelist" comment="" />
+      <created>1570453078175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570453078175</updated>
+      <workItem from="1570453079459" duration="102000" />
+      <workItem from="1570454555285" duration="2088000" />
+      <workItem from="1570456690640" duration="1777000" />
+      <workItem from="1570494028807" duration="4261000" />
+      <workItem from="1570500291907" duration="662000" />
+      <workItem from="1570500996029" duration="887000" />
+      <workItem from="1570501930601" duration="11186000" />
+      <workItem from="1570532834036" duration="2607000" />
+      <workItem from="1570535521993" duration="4325000" />
+      <workItem from="1570541109673" duration="7576000" />
+      <workItem from="1570581043373" duration="1415000" />
+      <workItem from="1570582513723" duration="4739000" />
+      <workItem from="1570587317217" duration="2099000" />
+      <workItem from="1570590221440" duration="394000" />
+      <workItem from="1570708791190" duration="7767000" />
+      <workItem from="1570753689006" duration="8236000" />
+      <workItem from="1570767578803" duration="3511000" />
+      <workItem from="1570793088089" duration="4851000" />
+      <workItem from="1570801216191" duration="4570000" />
+      <workItem from="1570840585818" duration="13760000" />
+      <workItem from="1570856693575" duration="13277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

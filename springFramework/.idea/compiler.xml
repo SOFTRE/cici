@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring04-demo05-annotation-transaction" />
+        <module name="spring04-demo01-jdbctemplate" />
+        <module name="spring01-demo03-ioc" />
+        <module name="spring03-demo02-annotation-aop" />
+        <module name="spring02-demo04-annotation-homework" />
+        <module name="spring01-demo04-initBean" />
+        <module name="spring01-demo02-custom-ioc" />
+        <module name="spring03-demo03-homework" />
+        <module name="spring04-demo03-connectionpool" />
+        <module name="spring02-demo05-pure-annotation-homework" />
+        <module name="spring02-demo03-fixed" />
+        <module name="spring03-demo01-custom-aop" />
+        <module name="spring02-demo01-homework" />
+        <module name="spring01-demo05-dependencyIjection" />
+        <module name="spring02-demo02-annotation" />
+        <module name="spring04-demo04-xml-transaction" />
+        <module name="spring01-demo01-interface" />
+        <module name="spring04-demo02-ioc-jdbctemplate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring01-demo01-interface" target="1.8" />
+      <module name="spring01-demo02-custom-ioc" target="1.8" />
+      <module name="spring01-demo03-ioc" target="1.8" />
+      <module name="spring01-demo04-initBean" target="1.8" />
+      <module name="spring01-demo05-dependencyIjection" target="1.8" />
+      <module name="spring02-demo01-homework" target="1.8" />
+      <module name="spring02-demo02-annotation" target="1.8" />
+      <module name="spring02-demo03-fixed" target="1.8" />
+      <module name="spring02-demo04-annotation-homework" target="1.8" />
+      <module name="spring02-demo05-pure-annotation-homework" target="1.8" />
+      <module name="spring03-demo01-custom-aop" target="1.8" />
+      <module name="spring03-demo02-annotation-aop" target="1.8" />
+      <module name="spring03-demo03-homework" target="1.8" />
+      <module name="spring04-demo01-jdbctemplate" target="1.8" />
+      <module name="spring04-demo02-ioc-jdbctemplate" target="1.8" />
+      <module name="spring04-demo03-connectionpool" target="1.8" />
+      <module name="spring04-demo04-xml-transaction" target="1.8" />
+      <module name="spring04-demo05-annotation-transaction" target="1.8" />
+      <module name="spring04-demo05-xml-transaction" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
