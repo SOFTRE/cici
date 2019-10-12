@@ -1,4 +1,4 @@
-package com.itheima.domain;
+package com.xxM.domain;
 
 import lombok.Data;
 

@@ -1,7 +1,7 @@
-package com.itheima.dao.impl;
+package com.xxM.dao.impl;
 
-import com.itheima.dao.AccountDao;
-import com.itheima.domain.Account;
+import com.xxM.dao.AccountDao;
+import com.xxM.domain.Account;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

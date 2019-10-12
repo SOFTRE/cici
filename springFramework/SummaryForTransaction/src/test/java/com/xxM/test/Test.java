@@ -1,7 +1,7 @@
-package com.itheima.test;
+package com.xxM.test;
 
-import com.itheima.domain.Account;
-import com.itheima.service.AccountService;
+import com.xxM.domain.Account;
+import com.xxM.service.AccountService;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;

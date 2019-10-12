@@ -1,6 +1,6 @@
-package com.itheima.dao;
+package com.xxM.dao;
 
-import com.itheima.domain.Account;
+import com.xxM.domain.Account;
 
 public interface AccountDao {
     Integer update(Account account);
